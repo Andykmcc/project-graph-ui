@@ -8,7 +8,7 @@ class App extends Component {
       <div className="App">
         <header className="App__header">header</header>
         <main className="App__main">
-          <Efforts/>
+
         </main>
         <footer className="App__footer">footer</footer>
       </div>
